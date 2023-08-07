@@ -1,11 +1,11 @@
 <?php
 // Array of quotes
 $quotes = [
-    "Be yourself; everyone else is already taken. - Oscar Wilde",
-    "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. - Albert Einstein",
-    "In three words I can sum up everything I've learned about life: it goes on. - Robert Frost",
-    "The only way to do great work is to love what you do. - Steve Jobs",
-    "Life is what happens when you're busy making other plans. - John Lennon",
+    "I choose myself and I will always continue to choose myself. - Wizard Liz",
+    "Be enough for yourself first, the rest of the world can wait. - Wizard Liz",
+    "Once you start seeing the results of taking care of yourself, it becomes addictive. - Wizard Liz",
+    "I enjoy continuously becoming a better version of myself. - Wizard Liz",
+    "What makes a person successful is the fact that they do not quit. - Wizard Liz",
 ];
 
 // Get a random index
